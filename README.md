@@ -9,7 +9,7 @@ The aim of this project is to train a network to distinguish between three class
 
 List of files:
 <ol>
-<li>DataManager:<br> This class is responsible for loading the data and preprocessing it. In here we we preprocess alage the images and change its size.</li>
+<li>DataManager:<br> This class is responsible for loading the data and preprocessing it. In here we preprocess large images and change its size.</li>
 <li>Model : <br> This class defines the Model as well as trains and test the models.</li>
 </ol>
 
@@ -23,7 +23,7 @@ To run perform the following steps:
 
 or 
 <ol>
-<li>Import the projec in respective IDE</li>
+<li>Import the project in respective IDE</li>
 <li>Execute the Model.py</li>
 </ol>
 IDE: IntelliJ IDEA
