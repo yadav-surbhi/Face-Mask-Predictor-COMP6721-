@@ -27,3 +27,10 @@ or
 <li>Execute the Model.py</li>
 </ol>
 IDE: IntelliJ IDEA
+</br>
+This project was made by:
+<ol>
+  <li>Surbhi Yadav</li>
+  <li>Apoorva Sharma</li>
+  <li>Hemil Sheth</li>
+</ol>
